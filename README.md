@@ -16,4 +16,4 @@ Using KNN on these vectors build a classifier to predict the popularity of the t
 <br><br>
 
 ### The Dataset
-The dataset is avaible in the zip file which is a collection of *11099 tweets*. The data will be in the form of a csv file. The ground truth is also given in the zip file which corresponds to whether a tweet was popular or not. Since the task involves selecting features yourself to vectorize a tweet , we suggest some data analysis of the columns you consider important.
+The dataset is avaible in the data folder which is a collection of *11099 tweets*. The data will be in the form of a csv file. The ground truth is also given in the data folder which corresponds to whether a tweet was popular or not. Since the task involves selecting features yourself to vectorize a tweet , we suggest some data analysis of the columns you consider important.
