@@ -1,4 +1,5 @@
-# SMAI-Mini-Project-2
+# KNN-Tweets-and-Metadata
+
 SMAI-Mini-Project-2 || Build a classifier using K-NN which can predict the popularity of the tweet, i.e , if the tweet was popular or not.
 
 ### The Task
